@@ -20,3 +20,21 @@ body {
 .btn-primary:hover {
   background-color: #6c00d6;
 }
+
+body {
+  font-family: serif;
+}
+
+.hero-section {
+  background: linear-gradient(90deg, #7f00ff, #e100ff);
+  color: white;
+}
+
+.btn-primary {
+  background-color: #7f00ff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #6c00d6;
+}
